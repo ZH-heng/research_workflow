@@ -113,14 +113,6 @@ class Config:
         self.log_path = './log.txt'
         self.__dict__.update(kws)
 
-# This study employed each model’s respective tokenizer to process the dataset. Token length statistics were subsequently computed, 
-# and the 90th percentile token length was designated as the max_len. In the phrase generation task, the max_len includes the length of both paragraphs and titles.
-# t5: 316 22
-# flan-t5 316 22
-# bart: 276 19
-# mvp: 276  19
-# pegasus: 268 16
-
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 cfg = Config()
