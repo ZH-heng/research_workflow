@@ -13,7 +13,7 @@ research_workflow                              Root directory
 ├── phrase_clf_chatgpt.py                      Source code for workflow phrase classification using ChatGPT
 ├── data                                       Dataset folder
 │   ├── workflow_phrases.txt                   197,304 research workflow phrases
-│   └── paper_phrase.parquet                   The workflows in three research stage of  NLP papers
+│   └── paper_phrase.parquet                   The workflows in three research stage of NLP papers
 └── README.md
 </pre>
 
