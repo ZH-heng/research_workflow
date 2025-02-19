@@ -1,4 +1,4 @@
-# Automatic Generation of Research Workflow in Natural Language Processing: A Full-text Mining Approach
+# Automatic Generation of Research Workflow from Academic Papers: A Full-text Mining Approach
 
 ## Overview
 Dataset and source code for paper "Automatic Generation of Research Workflow in Natural Language Processing: A Full-text Mining Approach".
