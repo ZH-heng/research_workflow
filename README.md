@@ -1,7 +1,7 @@
-# Automated Generation of Research Workflow from Academic Papers: A Full-text Mining Framework
+# Automated Generation of Research Workflows from Academic Papers: A Full-text Mining Framework
 
 ## Overview
-Dataset and source code for paper "Automated Generation of Research Workflow from Academic Papers: A Full-text Mining Framework".
+Dataset and source code for paper "Automated Generation of Research Workflows from Academic Papers: A Full-text Mining Framework".
 
 ## Directory structure
 <pre>
