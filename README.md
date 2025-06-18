@@ -35,11 +35,14 @@ research_workflow                         Root directory
    - <code>python ./code/phrase_clf_chatgpt.py</code> Run phrase_clf_chatgpt.py to categorize workflow phrases into data preparation, data processing, and data analysis, using ChatGPT with few-shot learning.
 
 ## Dependency packages
-- pytorch=2.0.1
-- transformers=4.28.1
-- pandas=2.0.0
-- tqdm=4.65.0
-- loguru=0.7.0
+- python=3.10.13
+- torch=1.11.0+cu115
+- transformers=4.30.2
+- pandas=2.2.3
+- tqdm=4.66.1
+- loguru=0.7.2
 - fasttext=0.9.2
-- numpy=1.24.1
+- numpy=1.24.4
+- torchmetrics=1.1.2
+- nltk=3.8.1
 
