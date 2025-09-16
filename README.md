@@ -46,3 +46,8 @@ research_workflow                         Root directory
 - torchmetrics=1.1.2
 - nltk=3.8.1
 
+## Citation
+Please cite the following paper if you use this code and dataset in your work.
+    
+>Heng Zhang, Chengzhi Zhang\*. Automated Generation of Research Workflows from Academic Papers: A Full-text Mining Framework. ***Journal of Informetrics***, 2025(in press)  [[arXiv]]()  [[doi]]()  [[Dataset & Source Code]]( https://github.com/ZH-heng/research_workflow)
+
