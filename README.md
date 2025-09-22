@@ -49,4 +49,4 @@ research_workflow                         Root directory
 ## Citation
 Please cite the following paper if you use this code and dataset in your work.
     
->Heng Zhang, Chengzhi Zhang\*. Automated Generation of Research Workflows from Academic Papers: A Full-text Mining Framework. ***Journal of Informetrics***, 2025(in press) [[doi]](https://doi.org/10.1016/j.joi.2025.101732) [[arXiv]](https://arxiv.org/abs/2509.12955)  [[Dataset & Source Code]]( https://github.com/ZH-heng/research_workflow)
+>Heng Zhang, Chengzhi Zhang\*. Automated Generation of Research Workflows from Academic Papers: A Full-text Mining Framework. ***Journal of Informetrics***, 2025, 19(4): 101732. [[doi]](https://doi.org/10.1016/j.joi.2025.101732) [[arXiv]](https://arxiv.org/abs/2509.12955)  [[Dataset & Source Code]]( https://github.com/ZH-heng/research_workflow)
